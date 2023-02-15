@@ -1,3 +1,3 @@
-all the physics are corret
+all the physics are correct
 
 9
